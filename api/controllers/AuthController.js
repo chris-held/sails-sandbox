@@ -3,7 +3,6 @@
  * @description :: Server-side logic for manage user's authorization
  */
 var passport = require('passport');
-var AuthService = require('../services/auth-service');
 /**
  * Triggers when user authenticates via passport
  * @param {Object} req Request object

@@ -5,8 +5,6 @@
  * @docs        :: http://sailsjs.com/docs/concepts/models-and-orm/models
  */
 
-var AuthService = require('../services/auth-service');
-
 module.exports = {
   schema: true,
   attributes: {
